@@ -48,4 +48,5 @@ Git has a mutable index called stage.
 workspace is different with stage.
 workspace add a line.
     
+ Creating a new branch is quick.
  
