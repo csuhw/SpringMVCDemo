@@ -37,10 +37,15 @@ Welcome to visit my personal blog: [Gaussic](http://gaussic.top)
 
 此外，还有一个旧的 spring 3.2.0 版本的项目：[See the spring3.2 branch](https://github.com/gaussic/SpringMVCDemo/tree/spring3.2)
 
+
 欢迎访问我的个人博客首页：[Gaussic](http://gaussic.top)
 git practice 20180729
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+
+workspace is different with stage.
+workspace add a line.
+    
 
